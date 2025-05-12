@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe width="420" height="315"
-src="https://drive.google.com/file/d/1tlQi3DGN3qSIZf5Db6mCljtSmXoih4_D/view?usp=sharing">
-</iframe>
+[Video Walkthrough](https://drive.google.com/file/d/1tlQi3DGN3qSIZf5Db6mCljtSmXoih4_D/view?usp=sharing)
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
