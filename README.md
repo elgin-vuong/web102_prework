@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1tlQi3DGN3qSIZf5Db6mCljtSmXoih4_D/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe width="420" height="315"
+src="https://drive.google.com/file/d/1tlQi3DGN3qSIZf5Db6mCljtSmXoih4_D/view?usp=sharing">
+</iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
@@ -38,7 +40,7 @@ Tinkering with the different div classes during styling was difficult at first.
 
 ## License
 
-    Copyright [2025] [Elgin Vuong]
+    Copyright 2025 Elgin Vuong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
