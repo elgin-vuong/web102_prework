@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 body {
-    font-family: 'Cabin';
-    background-color: #758190;
+    font-family: 'Raleway';
+    background-color: #bfc5ca;
 }
 
 #tentacles {
@@ -19,8 +19,27 @@ body {
     margin-top: -10px;
 }
 
+#tentacles,
+.header-text {
+    margin-left: 1%;
+}
+
+h2 {
+    margin-left: 1%;
+}
+
+p {
+    margin-left: 1%;
+    font-size: larger;
+}
+
 .stats-container {
     display: flex;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -67,7 +86,8 @@ body {
 }
 
 button {
-    font-family: 'Cabin';
+    font-family: 'Raleway';
+    font-size: large;
     border: none;
     padding: 1%;
     margin: 1%;
